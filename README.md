@@ -195,15 +195,43 @@ Ports used:
     [STORED] 2025-11-10T21:56:34Z | Room: OFFICE9 | Sensor: h59        | CO2        | Value: 1329.7
     [STORED] 2025-11-10T21:56:34Z | Room: ROOM10  | Sensor: h100       | HUMIDITY   | Value:  70.4
     ```
+<div align="center">
+  <img src="images/data_stored.png" width="500"/>
+</div>
+
+
+
 - **Anomaly Alerts:**
     ```
     [ALERT] ↑ HIGH | TEMPERATURE | Room: CAFE2   | Sensor: h62        | Value:  31.0
     [ALERT] ↑ HIGH | CO2         | Room: OFFICE6 | Sensor: h56        | Value: 1416.1
     ```
+<div align="center">
+  <img src="images/anomaly_alerts.png" width="500"/>
+</div>
+
+
+
 - **Dash or Grafana dashboard:**
     - Real-time cards display each metric per room
     - Room selector, alerts, filters
     - Visual time trends & outlier highlighting
+
+<table>
+  <tr>
+    <td><img src="images/dashboard_1.png" width="400"/></td>
+    <td><img src="images/dashboard_2.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/dashboard_3.png" width="400"/></td>
+    
+  </tr>
+  <tr>
+    <td><img src="images/grafana_1.png" width="500"/></td>
+    <td><img src="images/grafana_2.png" width="500"/></td>
+  </tr>
+</table>
+
 
 ***
 
