@@ -196,7 +196,7 @@ Ports used:
     [STORED] 2025-11-10T21:56:34Z | Room: ROOM10  | Sensor: h100       | HUMIDITY   | Value:  70.4
     ```
 <div align="center">
-  <img src="images/data_stored.png" width="500"/>
+  <img src="images/data_stored.png"/>
 </div>
 
 
@@ -207,7 +207,7 @@ Ports used:
     [ALERT] ↑ HIGH | CO2         | Room: OFFICE6 | Sensor: h56        | Value: 1416.1
     ```
 <div align="center">
-  <img src="images/anomaly_alerts.png" width="500"/>
+  <img src="images/anomaly_alerts.png"/>
 </div>
 
 
